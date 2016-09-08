@@ -1,0 +1,26 @@
+{
+  "name": "my-boiler-plate-style-lint",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "stylelint-config-standard": "^3.0.0",
+    "stylelint": "^4.4.0"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IanHazelton/myBoilerPlate_StyleLint.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IanHazelton/myBoilerPlate_StyleLint/issues"
+  },
+  "homepage": "https://github.com/IanHazelton/myBoilerPlate_StyleLint#readme"
+}
