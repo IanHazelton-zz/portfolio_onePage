@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="628px" height="289px" viewBox="0 0 628 289" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.4.1 (15681) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="iPad-Portrait" sketch:type="MSArtboardGroup" transform="translate(-236.000000, -81.000000)">
+            <g id="Group" sketch:type="MSLayerGroup" transform="translate(149.000000, 70.000000)">
+                <text id="WORK" sketch:type="MSTextLayer" font-family="Roboto Slab" font-size="91" font-weight="bold" sketch:alignment="right" fill="#FFFFFF">
+                    <tspan x="88.4238281" y="95">WORK</tspan>
+                </text>
+                <text id="FREE" sketch:type="MSTextLayer" font-family="Snell Roundhand" font-size="91" font-weight="bold" sketch:alignment="right" fill="#FFFFFF">
+                    <tspan x="89.357" y="177">FREE</tspan>
+                </text>
+                <text id="PRICE" sketch:type="MSTextLayer" font-family="Phosphate" font-size="138" font-weight="normal" sketch:alignment="right" fill="#FFFFFF">
+                    <tspan x="369.964" y="297">PRICE</tspan>
+                </text>
+                <text id="CHEAP" sketch:type="MSTextLayer" font-family="Marker Felt" font-size="97" font-weight="normal" sketch:alignment="right" fill="#FFFFFF">
+                    <tspan x="446.955" y="179">CHEAP.</tspan>
+                </text>
+                <text id="NEVER" sketch:type="MSTextLayer" font-family="Chalkduster" font-size="74.6899981" font-weight="normal" sketch:alignment="right" fill="#FFFFFF">
+                    <tspan x="428.945499" y="78">NEVER</tspan>
+                </text>
+                <text id="FULL" sketch:type="MSTextLayer" font-family="FatFrank" font-size="141" font-weight="633" sketch:alignment="right" fill="#FFFFFF">
+                    <tspan x="94.475" y="297">FULL</tspan>
+                </text>
+                <text id="OR" sketch:type="MSTextLayer" font-family="FatFrank" font-size="11" font-weight="633" fill="#000000">
+                    <tspan x="107" y="216">OR</tspan>
+                </text>
+                <text id="FOR" sketch:type="MSTextLayer" transform="translate(381.500000, 62.000000) rotate(90.000000) translate(-381.500000, -62.000000) " font-family="Lucida Grande" font-size="22" font-weight="normal" sketch:alignment="middle" fill="#FFFFFF">
+                    <tspan x="360.101562" y="70">FOR</tspan>
+                </text>
+                <path d="M412,30.3451214 L412,180.999998" id="Line" stroke="#FFFFFF" stroke-width="4" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
+            </g>
+        </g>
+    </g>
+</svg>
