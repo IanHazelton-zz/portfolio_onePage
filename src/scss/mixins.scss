@@ -1,23 +1,58 @@
 // MEDIA QUERIES
 
+//These can be adjusted as much as you like, just remember to update the grid file too!
+
+//1em = 16px
+
+// Mobile: 400px
+// Phablet: 550px
+// Tablet: 750px
+// Desktop: 1000px
+// Desktop HD: 1200px
+
+// /* Larger than small mobile */
+// @media (min-width: 400px) {}
+//
+// /* Phablet and up */
+// @media (min-width: 550px) {}
+//
+// /* Tablet and up */
+// @media (min-width: 750px) {}
+//
+// /* Desktop and up */
+// @media (min-width: 1000px) {}
+//
+// /* Desktop HD and beyond */
+// @media (min-width: 1200px) {}
+
+// !This structure is built 'mobile-first'! No media queries are needed for small screen <400px, only larger screens
+
+// Larger than small mobile
 @mixin breakpoint($point) {
   @if $point == 'sm' {
-    @media (min-width: 20em) { // 320px
+    @media (min-width: 25em) { // Kicks in at 400px)
       @content;
     }
   }
+  // Phablet and up
   @else if $point =='md' {
-    @media (min-width: 48em) { // 768px
+    @media (min-width: 34.375em) { //Kicks in at 550px
       @content;
     }
   }
+  // Tablet and up
   @else if $point == 'lg' {
-    @media (min-width: 64em)  { // 1024px
+    @media (min-width: 46.875em)  { //Kicks in at 750px
       @content;
     }
   }
   @else if $point == 'xl' {
-    @media (min-width: 75em)  { // 1200px
+    @media (min-width: 62.5em)  { //Kicks in at 1000px
+      @content;
+    }
+  }
+  @else if $point == 'xxl' {
+    @media (min-width: 75em)  { //Kicks in at 1200px
       @content;
     }
   }
